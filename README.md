@@ -1,13 +1,13 @@
-# {project title} ✨
+# UI Design Using Figma or Xd ✨
 
 ### Description
-{mini project description goes here...}
+The UI designs and prototypes for any project.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/ui-design-using-figma-xd/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/ui-design-using-figma-xd" />
 </a>
 
 
